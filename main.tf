@@ -18,6 +18,8 @@
 #     hdays-michel-slug
 #
 
+;
+
 terraform {
   backend "atlas" {
     name         = "sridolfi/training"
